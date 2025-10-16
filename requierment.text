@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+python-docx
+fuzzywuzzy[accelerate]
+python-Levenshtein
+pandas
+numpy
